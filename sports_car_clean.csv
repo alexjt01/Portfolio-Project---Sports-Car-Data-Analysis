@@ -1,0 +1,637 @@
+make,model,year,numeric_engine_size,engine_type,horsepower,flag_hp_estimate,torque_lb,flag_torque_estimate,zero_to_sixty,flag_zero_to_sixty_estimate,price_usd,price_gbp
+Porsche,911,2022,3.0,Combustion,379,False,331,False,4.0,False,101200.0,78936.0
+Lamborghini,Huracan,2021,5.2,Combustion,630,False,443,False,2.8,False,274390.0,214024.2
+Ferrari,488 GTB,2022,3.9,Combustion,661,False,561,False,3.0,False,333750.0,260325.0
+Audi,R8,2022,5.2,Combustion,562,False,406,False,3.2,False,142700.0,111306.0
+McLaren,720S,2021,4.0,Combustion,710,False,568,False,2.7,False,298000.0,232440.0
+BMW,M8,2022,4.4,Combustion,617,False,553,False,3.1,False,130000.0,101400.0
+Mercedes-Benz,AMG GT,2021,4.0,Combustion,523,False,494,False,3.8,False,118500.0,92430.0
+Chevrolet,Corvette,2021,6.2,Combustion,490,False,465,False,2.8,False,59900.0,46722.0
+Ford,Mustang Shelby GT500,2022,5.2,Combustion,760,False,625,False,3.5,False,81000.0,63180.0
+Nissan,GT-R Nismo,2021,3.8,Combustion,600,False,481,False,2.5,False,212000.0,165360.0
+Aston Martin,DB11,2021,5.2,Combustion,630,False,516,False,3.5,False,201495.0,157166.1
+Bugatti,Chiron,2021,8.0,Combustion,1500,False,1180,False,2.4,False,3000000.0,2340000.0
+Dodge,Challenger SRT Hellcat,2022,6.2,Combustion,717,False,656,False,3.5,False,61000.0,47580.0
+Jaguar,F-Type,2022,3.0,Combustion,296,False,295,False,5.4,False,70100.0,54678.0
+Koenigsegg,Jesko,2021,5.0,Combustion,1280,False,1015,False,2.5,False,2800000.0,2184000.0
+Lexus,LC 500,2021,5.0,Combustion,471,False,398,False,4.4,False,92950.0,72501.0
+Lotus,Evora GT,2021,3.5,Combustion,416,False,317,False,3.8,False,104450.0,81471.0
+Maserati,GranTurismo,2021,4.7,Combustion,454,False,384,False,4.8,False,150000.0,117000.0
+Porsche,Boxster,2021,2.0,Combustion,300,False,280,False,4.7,False,62000.0,48360.0
+Alfa Romeo,Giulia Quadrifoglio,2022,2.9,Combustion,505,False,443,False,3.8,False,78000.0,60840.0
+Ariel,Atom,2021,2.0,Combustion,320,False,243,False,2.8,False,75000.0,58500.0
+Bentley,Continental GT,2021,6.0,Combustion,626,False,664,False,3.6,False,225000.0,175500.0
+McLaren,Artura,2022,3.0,Combustion,671,False,531,False,3.0,False,225000.0,175500.0
+Mercedes-AMG,SLS AMG,2021,6.2,Combustion,622,False,468,False,3.5,False,248000.0,193440.0
+Pagani,Huayra,2021,6.0,Combustion,720,False,737,False,2.8,False,2800000.0,2184000.0
+Polestar,1,2021,2.0,Combustion,600,False,738,False,4.1,False,155000.0,120900.0
+Rimac,Nevera,2022,,Electric,1914,False,1696,False,1.85,False,2400000.0,1872000.0
+Porsche,Cayman GT4,2022,4.0,Combustion,414,False,309,False,3.8,False,100200.0,78156.0
+Lamborghini,Aventador SVJ,2021,6.5,Combustion,759,False,531,False,2.8,False,517770.0,403860.60000000003
+Ferrari,SF90 Stradale,2021,4.0,Combustion,986,False,590,False,2.5,False,625000.0,487500.0
+Audi,RS7,2022,4.0,Combustion,591,False,590,False,3.5,False,117000.0,91260.0
+McLaren,Artura,2021,3.0,Combustion,671,False,531,False,3.0,False,225000.0,175500.0
+BMW,M4,2022,3.0,Combustion,503,False,479,False,3.8,False,72800.0,56784.0
+Mercedes-Benz,SLS AMG,2015,6.2,Combustion,622,False,468,False,3.2,False,222000.0,173160.0
+Chevrolet,Camaro ZL1,2021,6.2,Combustion,650,False,650,False,3.5,False,64695.0,50462.1
+Ford,GT,2022,3.5,Combustion,660,False,550,False,3.0,False,500000.0,390000.0
+Nissan,370Z Nismo,2021,3.7,Combustion,350,False,276,False,4.5,False,45690.0,35638.200000000004
+Porsche,Taycan 4S,2022,,Electric,562,False,479,False,3.8,False,104000.0,81120.0
+Lamborghini,Urus,2021,4.0,Combustion,641,False,626,False,3.5,False,218000.0,170040.0
+Ferrari,Roma,2021,3.9,Combustion,611,False,561,False,3.3,False,222000.0,173160.0
+Audi,RS3,2022,2.5,Combustion,394,False,369,False,3.9,False,57000.0,44460.0
+McLaren,GT,2021,4.0,Combustion,612,False,465,False,3.1,False,210000.0,163800.0
+BMW,i8,2020,,Electric,369,False,420,False,4.2,False,148500.0,115830.0
+Mercedes-Benz,CLS63 AMG,2019,4.0,Combustion,603,False,627,False,3.4,False,132000.0,102960.0
+Porsche,Cayman,2021,2.0,Combustion,300,False,280,False,5.1,False,58900.0,45942.0
+Lamborghini,Aventador SVJ,2021,6.5,Combustion,759,False,531,False,2.8,False,518000.0,404040.0
+Audi,RS3,2022,2.5,Combustion,394,False,369,False,3.9,False,56200.0,43836.0
+McLaren,570S,2021,3.8,Combustion,562,False,443,False,2.8,False,192500.0,150150.0
+BMW,M4,2022,3.0,Combustion,503,False,479,False,3.8,False,71800.0,56004.0
+Mercedes-Benz,AMG C63,2021,4.0,Combustion,503,False,516,False,3.8,False,68000.0,53040.0
+Chevrolet,Camaro SS,2021,6.2,Combustion,455,False,455,False,4.1,False,42500.0,33150.0
+Ford,Mustang GT,2022,5.0,Combustion,460,False,420,False,4.3,False,39000.0,30420.0
+Nissan,370Z Nismo,2021,3.7,Combustion,350,False,276,False,4.8,False,46100.0,35958.0
+Aston Martin,Vantage,2021,4.0,Combustion,503,False,505,False,3.5,False,142100.0,110838.0
+Lotus,Evora GT,2021,3.5,Combustion,416,False,317,False,3.8,False,105000.0,81900.0
+Porsche,Panamera,2021,2.9,Combustion,325,False,331,False,5.1,False,87200.0,68016.0
+Lamborghini,Urus,2021,4.0,Combustion,641,False,627,False,3.2,False,218000.0,170040.0
+Ferrari,Roma,2021,3.9,Combustion,612,False,560,False,3.4,False,222000.0,173160.0
+Audi,S5,2022,3.0,Combustion,349,False,369,False,4.4,False,52500.0,40950.0
+McLaren,600LT,2021,3.8,Combustion,592,False,457,False,2.8,False,241000.0,187980.0
+BMW,M5,2022,4.4,Combustion,600,False,553,False,3.2,False,103500.0,80730.0
+Aston Martin,Vantage,2022,4.0,Combustion,503,False,505,False,3.5,False,146000.0,113880.0
+Audi,RS5,2021,2.9,Combustion,444,False,443,False,3.6,False,75400.0,58812.0
+BMW,M2,2022,3.0,Combustion,405,False,406,False,4.0,False,58900.0,45942.0
+Chevrolet,Camaro SS,2021,6.2,Combustion,455,False,455,False,4.0,False,42900.0,33462.0
+Dodge,Challenger SRT Hellcat Redeye,2022,6.2,Combustion,797,False,707,False,3.4,False,78595.0,61304.1
+Ford,GT,2021,3.5,Combustion,660,False,550,False,3.0,False,500000.0,390000.0
+Jaguar,F-Type,2022,2.0,Combustion,296,False,295,False,5.4,False,62750.0,48945.0
+Lamborghini,Aventador,2021,6.5,Combustion,770,False,531,False,2.9,False,417826.0,325904.28
+Maserati,GranTurismo,2021,4.7,Combustion,454,False,384,False,4.7,False,150980.0,117764.40000000001
+Mercedes-Benz,C63 AMG,2021,4.0,Combustion,503,False,516,False,3.8,False,70100.0,54678.0
+Nissan,370Z,2021,3.7,Combustion,332,False,270,False,5.0,False,30090.0,23470.2
+Porsche,Panamera,2022,2.9,Combustion,325,False,331,False,5.3,False,88700.0,69186.0
+Audi,TT RS,2021,2.5,Combustion,394,False,354,False,3.6,False,67600.0,52728.0
+BMW,M4,2022,3.0,Combustion,473,False,406,False,4.1,False,72800.0,56784.0
+Chevrolet,Corvette Stingray,2021,6.2,Combustion,490,False,465,False,2.8,False,59900.0,46722.0
+Ferrari,F8 Tributo,2021,3.9,Combustion,710,False,568,False,2.8,False,274280.0,213938.4
+Ford,Mustang Mach 1,2021,5.0,Combustion,480,False,420,False,4.3,False,52915.0,41273.700000000004
+Lamborghini,Urus,2021,4.0,Combustion,641,False,627,False,3.6,False,218009.0,170047.02000000002
+Porsche,718 Cayman,2022,2.0,Combustion,300,False,280,False,4.5,False,61000.0,47580.0
+Acura,NSX,2022,3.5,Combustion,573,False,476,False,2.9,False,159495.0,124406.1
+Aston Martin,Vantage,2022,4.0,Combustion,503,False,505,False,3.5,False,142086.0,110827.08
+Bentley,Continental GT,2021,6.0,Combustion,626,False,664,False,3.3,False,219800.0,171444.0
+Bugatti,Chiron,2022,8.0,Combustion,1500,False,1180,False,2.4,False,3000000.0,2340000.0
+Dodge,Challenger SRT Hellcat Redeye,2022,6.2,Combustion,797,False,707,False,3.4,False,74290.0,57946.200000000004
+Jaguar,F-Type,2022,3.0,Combustion,380,False,339,False,4.9,False,71900.0,56082.0
+Koenigsegg,Jesko,2022,5.0,Combustion,1600,False,1106,False,2.5,False,3000000.0,2340000.0
+Lexus,LC 500,2022,5.0,Combustion,471,False,398,False,4.4,False,92950.0,72501.0
+Maserati,GranTurismo,2022,4.7,Combustion,454,False,384,False,4.7,False,134300.0,104754.0
+Mazda,MX-5 Miata,2021,2.0,Combustion,181,False,151,False,6.5,False,26830.0,20927.4
+McLaren,GT,2022,4.0,Combustion,620,False,465,False,3.1,False,213195.0,166292.1
+Mercedes-Benz,SLS AMG,2015,6.2,Combustion,622,False,468,False,3.7,False,221580.0,172832.4
+Pagani,Huayra,2022,6.0,Combustion,764,False,738,False,2.8,False,2800000.0,2184000.0
+Porsche,718 Cayman GT4,2022,4.0,Combustion,414,False,309,False,4.2,False,100550.0,78429.0
+Rolls-Royce,Wraith,2021,6.8,Combustion,624,False,605,False,4.4,False,330000.0,257400.0
+Tesla,Roadster,2022,,Electric,1000,True,737,False,1.9,False,200000.0,156000.0
+Toyota,Supra,2022,3.0,Combustion,382,False,368,False,3.9,False,43090.0,33610.200000000004
+W Motors,Fenyr Supersport,2022,3.8,Combustion,800,False,723,False,2.7,False,1700000.0,1326000.0
+Porsche,718 Cayman,2022,2.0,Combustion,300,False,280,False,4.7,False,60500.0,47190.0
+Lamborghini,Aventador,2021,6.5,Combustion,770,False,531,False,2.9,False,522000.0,407160.0
+Audi,TT RS,2022,2.5,Combustion,394,False,354,False,3.4,False,67000.0,52260.0
+McLaren,GT,2021,4.0,Combustion,612,False,465,False,3.1,False,212500.0,165750.0
+BMW,M4,2022,3.0,Combustion,503,False,479,False,3.8,False,75000.0,58500.0
+Mercedes-Benz,SL 63 AMG,2021,4.0,Combustion,603,False,664,False,3.5,False,155000.0,120900.0
+Chevrolet,Camaro ZL1,2021,6.2,Combustion,650,False,650,False,3.5,False,64000.0,49920.0
+Nissan,370Z,2021,3.7,Combustion,332,False,270,False,4.7,False,31015.0,24191.7
+Aston Martin,DBS Superleggera,2021,5.2,Combustion,715,False,664,False,3.4,False,304995.0,237896.1
+Porsche,Panamera Turbo S E-Hybrid,2021,4.0,Combustion,690,False,642,False,3.2,False,190000.0,148200.0
+Lamborghini,Urus,2021,4.0,Combustion,641,False,627,False,3.6,False,222000.0,173160.0
+Audi,RS7,2021,4.0,Combustion,591,False,590,False,3.5,False,115000.0,89700.0
+BMW,M2,2022,3.0,Combustion,405,False,406,False,4.2,False,59000.0,46020.0
+Porsche,Cayman GT4,2022,4.0,Combustion,414,False,309,False,4.2,False,102100.0,79638.0
+Lamborghini,Aventador,2021,6.5,Combustion,730,False,509,False,2.9,False,417826.0,325904.28
+Bentley,Continental GT,2021,6.0,Combustion,626,False,664,False,3.6,False,220300.0,171834.0
+Audi,RS7,2022,4.0,Combustion,591,False,590,False,3.5,False,114000.0,88920.0
+Mercedes-Benz,SLS AMG,2021,6.2,Combustion,622,False,468,False,3.7,False,239100.0,186498.0
+Chevrolet,Camaro ZL1,2021,6.2,Combustion,650,False,650,False,3.5,False,62500.0,48750.0
+Dodge,Challenger SRT Hellcat,2021,6.2,Combustion,717,False,656,False,3.5,False,65290.0,50926.200000000004
+Ferrari,Portofino,2021,3.9,Combustion,592,False,560,False,3.5,False,219750.0,171405.0
+Porsche,Panamera Turbo S,2022,4.0,Combustion,620,False,604,False,2.9,False,187700.0,146406.0
+Lamborghini,Urus,2021,4.0,Combustion,641,False,627,False,3.6,False,222004.0,173163.12
+Mercedes-Benz,AMG C63,2021,4.0,Combustion,469,False,479,False,3.8,False,71350.0,55653.0
+Aston Martin,Vantage,2021,4.0,Combustion,503,False,505,False,3.6,False,146000.0,113880.0
+Porsche,Cayman,2022,2.5,Combustion,365,False,309,False,4.5,False,68900.0,53742.0
+Lamborghini,Aventador,2021,6.5,Combustion,730,False,507,False,2.8,False,517770.0,403860.60000000003
+Ferrari,F8 Tributo,2022,3.9,Combustion,710,False,568,False,2.9,False,276550.0,215709.0
+BMW,Z4 M40i,2022,3.0,Combustion,382,False,369,False,3.9,False,63700.0,49686.0
+Chevrolet,Camaro SS,2022,6.2,Combustion,455,False,455,False,4.1,False,44000.0,34320.0
+Ford,Mustang Mach 1,2021,5.0,Combustion,480,False,420,False,4.0,False,51720.0,40341.6
+Nissan,370Z Nismo,2021,3.7,Combustion,350,False,276,False,4.9,False,45790.0,35716.200000000004
+Porsche,Panamera,2022,2.9,Combustion,325,False,331,False,5.4,False,88550.0,69069.0
+Ferrari,Roma,2021,3.9,Combustion,612,False,561,False,3.3,False,222620.0,173643.6
+Audi,RS 3,2022,2.5,Combustion,401,False,369,False,3.6,False,56200.0,43836.0
+McLaren,GT,2021,4.0,Combustion,612,False,465,False,3.2,False,200000.0,156000.0
+BMW,M2 CS,2022,3.0,Combustion,444,False,406,False,3.8,False,84595.0,65984.1
+Mercedes-Benz,AMG C63,2021,4.0,Combustion,503,False,516,False,3.8,False,77500.0,60450.0
+Acura,NSX,2021,3.5,Combustion,573,False,476,False,2.7,False,157500.0,122850.0
+Aston Martin,DB11,2022,4.0,Combustion,503,False,513,False,3.7,False,204100.0,159198.0
+Dodge,Viper,2017,8.4,Combustion,645,False,600,False,3.3,False,120000.0,93600.0
+Jaguar,F-Type,2022,3.0,Combustion,380,False,339,False,4.9,False,69900.0,54522.0
+Lotus,Evora GT,2021,3.5,Combustion,416,False,317,False,3.8,False,105950.0,82641.0
+Maserati,GranTurismo,2020,4.7,Combustion,454,False,384,False,4.8,False,150000.0,117000.0
+McLaren,570S,2020,3.8,Combustion,562,False,443,False,3.1,False,204550.0,159549.0
+Pagani,Huayra,2020,6.0,Combustion,720,False,738,False,3.0,False,2700000.0,2106000.0
+Porsche,Cayman GT4,2022,4.0,Combustion,414,False,309,False,4.2,False,102900.0,80262.0
+Rimac,C_Two,2022,,Electric,1914,False,1696,False,1.9,False,2400000.0,1872000.0
+Rolls-Royce,Wraith,2021,6.6,Combustion,624,False,605,False,4.3,False,330000.0,257400.0
+Shelby,Cobra,1965,7.0,Combustion,435,False,440,False,4.2,False,1000000.0,780000.0
+Tesla,Model S Plaid,2021,,Electric,1020,False,1050,False,1.98,False,131190.0,102328.2
+Toyota,GR Supra,2022,3.0,Combustion,382,False,368,False,3.9,False,43090.0,33610.200000000004
+TVR,Griffith,2022,5.0,Combustion,500,False,479,False,3.8,False,123500.0,96330.0
+W Motors,Lykan Hypersport,2015,3.7,Combustion,780,False,708,False,2.8,False,3400000.0,2652000.0
+Porsche,718 Cayman,2021,2.0,Combustion,300,False,280,False,4.5,False,61500.0,47970.0
+Lamborghini,Aventador SVJ,2021,6.5,Combustion,770,False,531,False,2.8,False,518000.0,404040.0
+Ferrari,SF90 Stradale,2022,4.0,Combustion,986,False,590,False,2.5,False,507000.0,395460.0
+Audi,RS 6,2021,4.0,Combustion,591,False,590,False,3.5,False,109000.0,85020.0
+Mercedes-Benz,SLS AMG,2015,6.2,Combustion,622,False,468,False,3.6,False,228000.0,177840.0
+Chevrolet,Camaro SS,2021,6.2,Combustion,455,False,455,False,4.0,False,42000.0,32760.0
+Nissan,370Z Nismo,2021,3.7,Combustion,350,False,276,False,5.0,False,45000.0,35100.0
+Porsche,Taycan,2021,,Electric,750,False,774,False,2.6,False,185000.0,144300.0
+Ferrari,F8 Tributo,2021,3.9,Combustion,710,False,568,False,2.9,False,276550.0,215709.0
+Audi,RS 3,2022,2.5,Combustion,401,False,354,False,3.5,False,56000.0,43680.0
+McLaren,570S,2021,3.8,Combustion,562,False,443,False,3.1,False,191000.0,148980.0
+BMW,M5,2022,4.4,Combustion,600,False,553,False,3.2,False,104000.0,81120.0
+Mercedes-Benz,AMG C 63,2021,4.0,Combustion,469,False,479,False,3.9,False,69900.0,54522.0
+Porsche,Taycan,2022,2.0,Combustion,402,False,254,False,5.1,False,81250.0,63375.0
+Lamborghini,Aventador,2021,6.5,Combustion,730,False,509,False,2.9,False,517700.0,403806.0
+Aston Martin,DBS Superleggera,2022,5.2,Combustion,715,False,663,False,3.4,False,330000.0,257400.0
+Audi,RS 6 Avant,2021,4.0,Combustion,591,False,590,False,3.5,False,109000.0,85020.0
+McLaren,600LT,2021,3.8,Combustion,592,False,457,False,2.8,False,242500.0,189150.0
+Mercedes-AMG,C 63 S Coupe,2022,4.0,Combustion,503,False,516,False,3.7,False,77000.0,60060.0
+Chevrolet,Camaro ZL1,2021,6.2,Combustion,650,False,650,False,3.5,False,62000.0,48360.0
+Dodge,Challenger SRT Hellcat Redeye,2022,6.2,Combustion,797,False,707,False,3.5,False,76000.0,59280.0
+Porsche,Panamera,2022,2.9,Combustion,325,False,332,False,5.3,False,87200.0,68016.0
+Audi,RS 7,2021,4.0,Combustion,591,False,590,False,3.5,False,114000.0,88920.0
+Jaguar,F-Type,2022,5.0,Combustion,575,False,516,False,3.5,False,103200.0,80496.0
+Porsche,Panamera Turbo S,2021,4.0,Combustion,620,False,604,False,2.9,False,177700.0,138606.0
+Lamborghini,Aventador S,2021,6.5,Combustion,729,False,509,False,2.9,False,417650.0,325767.0
+Audi,RS7,2022,4.0,Combustion,591,False,590,False,3.5,False,115045.0,89735.1
+McLaren,600LT,2021,3.8,Combustion,592,False,457,False,2.9,False,256500.0,200070.0
+BMW,M2 Competition,2022,3.0,Combustion,405,False,406,False,4.0,False,59895.0,46718.1
+Mercedes-Benz,S63 AMG,2021,4.0,Combustion,603,False,664,False,3.4,False,152500.0,118950.0
+Dodge,Challenger SRT Hellcat,2022,6.2,Combustion,717,False,656,False,3.5,False,69995.0,54596.1
+Porsche,Taycan Turbo S,2021,,Electric,750,False,774,False,2.6,False,185000.0,144300.0
+Ferrari,812 Superfast,2021,6.5,Combustion,789,False,530,False,2.9,False,363730.0,283709.4
+Audi,R8 Spyder,2022,5.2,Combustion,562,False,406,False,3.5,False,183300.0,142974.0
+BMW,M4,2022,3.0,Combustion,473,False,406,False,4.1,False,73795.0,57560.1
+Mercedes-Benz,AMG GT R,2021,4.0,Combustion,577,False,516,False,3.5,False,183000.0,142740.0
+Chevrolet,Corvette Stingray,2021,6.2,Combustion,495,False,470,False,2.9,False,60995.0,47576.1
+Aston Martin,DB11,2022,5.2,Combustion,630,False,516,False,3.5,False,207000.0,161460.0
+Bentley,Continental GT,2022,6.0,Combustion,626,False,664,False,3.5,False,203825.0,158983.5
+Jaguar,F-Type R,2021,5.0,Combustion,575,False,516,False,3.5,False,103200.0,80496.0
+Acura,NSX,2022,3.5,Combustion,573,False,476,False,2.7,False,157500.0,122850.0
+Lotus,Evora GT,2021,3.5,Combustion,416,False,317,False,3.7,False,99800.0,77844.0
+Porsche,Cayman GT4,2021,4.0,Combustion,414,False,309,False,4.2,False,100200.0,78156.0
+Alfa Romeo,4C,2020,1.7,Combustion,237,False,258,False,4.1,False,67150.0,52377.0
+Audi,RS5,2022,2.9,Combustion,444,False,443,False,3.7,False,77250.0,60255.0
+BMW,M2 Competition,2021,3.0,Combustion,405,False,406,False,4.0,False,58900.0,45942.0
+Dodge,Charger SRT Hellcat,2022,6.2,Combustion,717,False,650,False,3.6,False,71490.0,55762.200000000004
+Maserati,GranTurismo,2020,4.7,Combustion,454,False,384,False,4.8,False,150400.0,117312.0
+Nissan,370Z Nismo,2021,3.7,Combustion,350,False,276,False,4.6,False,47820.0,37299.6
+Rolls-Royce,Wraith,2022,6.8,Combustion,624,False,605,False,4.4,False,330000.0,257400.0
+Subaru,WRX STI,2021,2.5,Combustion,310,False,290,False,4.6,False,38170.0,29772.600000000002
+Tesla,Model S Plaid,2022,,Electric,1020,False,1050,False,1.9,False,131190.0,102328.2
+Porsche,Cayman GT4,2021,4.0,Combustion,414,False,309,False,4.2,False,102000.0,79560.0
+Lamborghini,Aventador,2021,6.5,Combustion,729,False,507,False,2.9,False,393695.0,307082.10000000003
+Ferrari,Portofino,2022,3.9,Combustion,591,False,413,False,3.3,False,218750.0,170625.0
+Audi,RS7,2021,4.0,Combustion,591,False,590,False,3.5,False,114000.0,88920.0
+Chevrolet,Camaro SS,2021,6.2,Combustion,455,False,455,False,4.1,False,40590.0,31660.2
+Ford,Mustang Mach 1,2021,5.0,Combustion,480,False,420,False,4.0,False,52720.0,41121.6
+Porsche,Panamera Turbo,2022,4.0,Combustion,620,False,604,False,3.1,False,174300.0,135954.0
+Ferrari,SF90 Stradale,2022,4.0,Combustion,986,False,590,False,2.5,False,625000.0,487500.0
+Audi,TT RS,2022,2.5,Combustion,394,False,354,False,3.4,False,67895.0,52958.1
+Dodge,Challenger SRT Hellcat,2021,6.2,Combustion,717,False,656,False,3.5,False,62290.0,48586.200000000004
+Aston Martin,DBS Superleggera,2021,5.2,Combustion,715,False,663,False,3.2,False,304995.0,237896.1
+Lexus,LC 500,2022,5.0,Combustion,471,False,398,False,4.4,False,93050.0,72579.0
+Porsche,Cayman GT4,2022,4.0,Combustion,414,False,309,False,4.2,False,101200.0,78936.0
+Audi,RS 5 Coupe,2021,2.9,Combustion,444,False,443,False,3.7,False,75100.0,58578.0
+Chevrolet,Camaro ZL1,2021,6.2,Combustion,650,False,650,False,3.5,False,64195.0,50072.1
+Lotus,Evora GT,2022,3.5,Combustion,416,False,317,False,3.8,False,105000.0,81900.0
+McLaren,GT,2021,4.0,Combustion,612,False,465,False,3.1,False,211000.0,164580.0
+Mercedes-Benz,SLS AMG Black Series,2014,6.2,Combustion,622,False,468,False,3.5,False,275000.0,214500.0
+Bugatti,Chiron,2021,8.0,Combustion,1500,False,1180,False,2.4,False,2998000.0,2338440.0
+Koenigsegg,Jesko,2021,5.0,Combustion,1280,False,1015,False,2.5,False,3000000.0,2340000.0
+Lamborghini,Aventador SVJ,2020,6.5,Combustion,770,False,531,False,2.8,False,573966.0,447693.48000000004
+Rimac,C_Two,2022,,Electric,1914,False,1732,False,1.85,False,2400000.0,1872000.0
+Pagani,Huayra Roadster BC,2021,6.0,Combustion,791,False,774,False,2.5,False,3500000.0,2730000.0
+Pininfarina,Battista,2022,,Electric,1874,False,1696,False,1.9,False,2500000.0,1950000.0
+Bentley,Continental GT,2022,4.0,Combustion,542,False,568,False,3.9,False,219800.0,171444.0
+Dodge,Challenger SRT Hellcat,2022,6.2,Combustion,717,False,656,False,3.5,False,70000.0,54600.0
+Jaguar,F-Type,2022,2.0,Combustion,296,False,295,False,5.4,False,61600.0,48048.0
+Kia,Stinger,2022,3.3,Combustion,368,False,376,False,4.7,False,52200.0,40716.0
+Lotus,Evora GT,2021,3.5,Combustion,416,False,317,False,3.8,False,100450.0,78351.0
+Maserati,GranTurismo,2021,4.7,Combustion,454,False,384,False,4.8,False,134300.0,104754.0
+Porsche,718 Cayman GT4,2022,4.0,Combustion,414,False,309,False,4.2,False,102550.0,79989.0
+Alfa Romeo,Giulia Quadrifoglio,2021,2.9,Combustion,505,False,443,False,3.8,False,76400.0,59592.0
+Chevrolet,Camaro ZL1,2022,6.2,Combustion,650,False,650,False,3.5,False,69000.0,53820.0
+Mercedes-Benz,SLS AMG,2021,4.0,Combustion,577,False,516,False,3.6,False,247500.0,193050.0
+Porsche,Taycan,2022,,Electric,616,False,774,False,2.6,False,79900.0,62322.0
+Tesla,Model S,2022,,Electric,1020,False,1050,False,1.98,False,119000.0,92820.0
+Aston Martin,DBS Superleggera,2022,5.2,Combustion,715,False,664,False,3.2,False,307820.0,240099.6
+Bentley,Continental GT,2022,4.0,Combustion,542,False,568,False,3.4,False,207825.0,162103.5
+Bugatti,Chiron,2021,8.0,Combustion,1479,False,1180,False,2.3,False,2998000.0,2338440.0
+McLaren,570S,2021,3.8,Combustion,562,False,443,False,3.1,False,202500.0,157950.0
+Porsche,Taycan Turbo S,2021,,Electric,750,False,774,False,2.6,False,185000.0,144300.0
+Lamborghini,Aventador S,2021,6.5,Combustion,730,False,509,False,2.9,False,417826.0,325904.28
+Audi,RS 7,2022,4.0,Combustion,591,False,590,False,3.5,False,114000.0,88920.0
+Mercedes-Benz,SLS AMG,2021,6.2,Combustion,622,False,468,False,3.2,False,275000.0,214500.0
+Chevrolet,Camaro ZL1,2021,6.2,Combustion,650,False,650,False,3.5,False,63000.0,49140.0
+Jaguar,F-Type,2021,5.0,Combustion,575,False,516,False,3.5,False,103200.0,80496.0
+Lotus,Evora GT,2021,3.5,Combustion,416,False,317,False,3.8,False,96950.0,75621.0
+McLaren,765LT,2021,4.0,Combustion,755,False,590,False,2.8,False,358000.0,279240.0
+Nissan,370Z,2021,3.7,Combustion,332,False,270,False,5.0,False,30000.0,23400.0
+Pagani,Huayra,2021,6.0,Combustion,730,False,738,False,3.0,False,2600000.0,2028000.0
+Porsche,Panamera Turbo S,2021,4.0,Combustion,620,False,604,False,2.9,False,180000.0,140400.0
+Tesla,Model S Plaid,2021,,Electric,1020,False,1050,False,1.9,False,131100.0,102258.0
+Aston Martin,DB11,2021,4.0,Combustion,503,False,513,False,4.0,False,201495.0,157166.1
+Dodge,Challenger Hellcat Redeye,2022,6.2,Combustion,797,False,707,False,3.4,False,82190.0,64108.200000000004
+Lotus,Evora,2021,3.5,Combustion,416,False,317,False,3.8,False,96950.0,75621.0
+Acura,NSX,2021,3.5,Combustion,573,False,476,False,2.7,False,159495.0,124406.1
+Alfa Romeo,Giulia Quadrifoglio,2021,2.9,Combustion,505,False,443,False,3.8,False,76950.0,60021.0
+Bentley,Continental GT,2021,6.0,Combustion,626,False,664,False,3.3,False,202500.0,157950.0
+Jaguar,F-Type,2022,3.0,Combustion,380,False,339,False,4.9,False,70100.0,54678.0
+Koenigsegg,Jesko,2022,5.0,Combustion,1280,False,1015,False,2.5,False,3000000.0,2340000.0
+Maserati,GranTurismo,2022,4.7,Combustion,454,False,384,False,4.8,False,132795.0,103580.1
+McLaren,GT,2022,4.0,Combustion,612,False,465,False,3.1,False,215500.0,168090.0
+Mercedes-AMG,C 63 S Coupe,2022,4.0,Combustion,503,False,516,False,3.7,False,80900.0,63102.0
+Porsche,718 Cayman,2021,2.0,Combustion,300,False,280,False,4.9,False,59900.0,46722.0
+Tesla,Roadster,2022,,Electric,1000,True,,,1.9,False,200000.0,156000.0
+Chevrolet,Camaro SS,2021,6.2,Combustion,455,False,455,False,4.0,False,40000.0,31200.0
+Aston Martin,DB11,2021,5.2,Combustion,630,False,516,False,3.7,False,209000.0,163020.0
+Bentley,Continental GT,2022,4.0,Combustion,542,False,568,False,3.9,False,202500.0,157950.0
+Dodge,Challenger Hellcat,2022,6.2,Combustion,717,False,656,False,3.5,False,67500.0,52650.0
+Koenigsegg,Jesko,2022,5.0,Combustion,1280,False,1106,False,2.5,False,2800000.0,2184000.0
+Lexus,LC,2021,5.0,Combustion,471,False,398,False,4.4,False,92950.0,72501.0
+Lotus,Evora GT,2021,3.5,Combustion,416,False,317,False,3.8,False,104200.0,81276.0
+Maserati,GranTurismo,2021,4.7,Combustion,454,False,384,False,4.7,False,133050.0,103779.0
+McLaren,570S,2021,3.8,Combustion,562,False,443,False,3.1,False,196350.0,153153.0
+Mercedes-Benz,AMG C63,2022,4.0,Combustion,503,False,516,False,3.8,False,69900.0,54522.0
+Pagani,Huayra BC,2021,6.0,Combustion,791,False,774,False,2.7,False,2600000.0,2028000.0
+Rolls-Royce,Wraith,2021,6.7,Combustion,624,False,605,False,4.4,False,338000.0,263640.0
+Tesla,Roadster,2022,,Electric,1000,True,,True,1.9,False,200000.0,156000.0
+Aston Martin,Vantage,2021,4.0,Combustion,503,False,505,False,3.5,False,150000.0,117000.0
+Bentley,Continental GT,2021,6.0,Combustion,626,False,664,False,3.6,False,218400.0,170352.0
+Dodge,Challenger SRT Hellcat Redeye,2021,6.2,Combustion,797,False,707,False,3.5,False,73000.0,56940.0
+Jaguar,F-Type R,2022,5.0,Combustion,575,False,516,False,3.5,False,103200.0,80496.0
+Lotus,Evora GT,2021,3.5,Combustion,416,False,317,False,3.8,False,104970.0,81876.6
+Maserati,GranTurismo,2021,4.7,Combustion,454,False,384,False,4.8,False,132400.0,103272.0
+Porsche,Cayman GT4,2021,4.0,Combustion,414,False,309,False,4.2,False,101200.0,78936.0
+Tesla,Roadster,2023,,Electric,1000,True,737,False,1.9,True,200000.0,156000.0
+Alpine,A110,2021,1.8,Combustion,288,False,236,False,4.4,False,71500.0,55770.0
+BMW,M4,2021,3.0,Combustion,473,False,406,False,4.1,False,71800.0,56004.0
+Dodge,Viper,2017,8.4,Combustion,645,False,600,False,3.3,False,118795.0,92660.1
+Ferrari,Portofino,2021,3.9,Combustion,591,False,560,False,3.5,False,218750.0,170625.0
+Jaguar,F-Type,2022,3.0,Combustion,296,False,295,False,5.4,False,61600.0,48048.0
+Lamborghini,Aventador SVJ,2021,6.5,Combustion,770,False,531,False,2.8,False,517700.0,403806.0
+McLaren,600LT,2021,3.8,Combustion,592,False,457,False,2.8,False,240000.0,187200.0
+Aston Martin,DB11,2021,5.2,Combustion,630,False,516,False,3.5,False,221400.0,172692.0
+Dodge,Challenger SRT Hellcat,2021,6.2,Combustion,717,False,656,False,3.5,False,64100.0,49998.0
+Koenigsegg,Jesko,2022,5.0,Combustion,1280,False,1015,False,2.5,False,2800000.0,2184000.0
+Mercedes-AMG,C 63 S,2022,4.0,Combustion,503,False,516,False,3.7,False,81550.0,63609.0
+Pagani,Huayra,2021,6.0,Combustion,764,False,738,False,2.8,False,3500000.0,2730000.0
+Porsche,Cayman GT4,2021,4.0,Combustion,414,False,309,False,4.2,False,102550.0,79989.0
+Rimac,C_Two,2022,,Electric,1888,False,1696,False,1.8,False,2400000.0,1872000.0
+Rolls-Royce,Wraith,2021,6.6,Combustion,624,False,642,False,4.4,False,330000.0,257400.0
+Dodge,Challenger SRT Hellcat,2021,6.2,Combustion,717,False,656,False,3.5,False,64195.0,50072.1
+Jaguar,F-Type,2022,3.0,Combustion,380,False,339,False,4.8,False,62250.0,48555.0
+Lexus,LC 500,2022,5.0,Combustion,471,False,398,False,4.4,False,92000.0,71760.0
+McLaren,570S,2022,3.8,Combustion,562,False,443,False,2.9,False,204550.0,159549.0
+Tesla,Model S Plaid,2021,,Electric,1020,False,1050,False,1.9,False,141190.0,110128.2
+Audi,RS 5,2021,2.9,Combustion,444,False,443,False,3.5,False,75100.0,58578.0
+Chevrolet,Camaro ZL1,2021,6.2,Combustion,650,False,650,False,3.5,False,64995.0,50696.1
+Dodge,Viper ACR,2017,8.4,Combustion,645,False,600,False,3.3,False,126190.0,98428.2
+Porsche,Taycan 4S,2022,2.5,Combustion,482,False,472,False,3.8,False,102900.0,80262.0
+Lamborghini,Aventador S,2021,6.5,Combustion,730,False,509,False,2.9,False,417650.0,325767.0
+Aston Martin,DB11,2021,5.2,Combustion,630,False,516,False,3.5,False,205000.0,159900.0
+Alfa Romeo,Giulia Quadrifoglio,2022,2.9,Combustion,505,False,443,False,3.8,False,81250.0,63375.0
+Audi,RS7 Sportback,2022,4.0,Combustion,591,False,590,False,3.5,False,115045.0,89735.1
+BMW,M4 Competition,2021,3.0,Combustion,503,False,479,False,3.9,False,75695.0,59042.1
+Chevrolet,Camaro SS,2022,6.2,Combustion,455,False,455,False,4.1,False,42000.0,32760.0
+Dodge,Charger Hellcat,2021,6.2,Combustion,717,False,650,False,3.6,False,71490.0,55762.200000000004
+Koenigsegg,Jesko Absolut,2022,5.0,Combustion,1600,False,1106,False,2.1,False,2800000.0,2184000.0
+Lexus,LC 500,2021,5.0,Combustion,471,False,398,False,4.4,False,93050.0,72579.0
+Lotus,Evija,2022,,Electric,1973,False,1254,False,2.5,False,2750000.0,2145000.0
+McLaren,GT,2022,4.0,Combustion,612,False,465,False,3.2,False,210000.0,163800.0
+Mercedes-Benz,AMG GT Black Series,2021,4.0,Combustion,720,False,590,False,3.2,False,326050.0,254319.0
+Porsche,Cayman GT4,2021,4.0,Combustion,414,False,309,False,4.2,False,102500.0,79950.0
+Lamborghini,Aventador,2021,6.5,Combustion,770,False,531,False,2.8,False,417650.0,325767.0
+Audi,TT RS,2022,2.5,Combustion,394,False,354,False,3.6,False,69000.0,53820.0
+McLaren,600LT Spider,2021,3.8,Combustion,592,False,457,False,2.8,False,256500.0,200070.0
+Mercedes-Benz,AMG C 63,2022,4.0,Combustion,503,False,516,False,3.8,False,70000.0,54600.0
+Chevrolet,Camaro SS 1LE,2021,6.2,Combustion,455,False,455,False,4.0,False,44500.0,34710.0
+Ford,Mustang Mach 1,2021,5.0,Combustion,480,False,420,False,4.0,False,51000.0,39780.0
+Koenigsegg,Jesko,2021,5.0,Combustion,1262,False,1106,False,2.5,False,3000000.0,2340000.0
+Pagani,Huayra,2021,6.0,Combustion,764,False,738,False,2.6,False,2600000.0,2028000.0
+McLaren,Speedtail,2021,4.0,Combustion,1035,False,848,False,2.5,False,2300000.0,1794000.0
+Lamborghini,Sián,2021,6.5,Combustion,819,False,531,False,2.8,False,3600000.0,2808000.0
+Rimac,C_Two,2021,,Electric,1914,False,1732,False,1.8,False,2400000.0,1872000.0
+Porsche,Cayman,2022,2.0,Combustion,300,False,280,False,4.9,False,59900.0,46722.0
+Lamborghini,Aventador,2021,6.5,Combustion,770,False,531,False,2.8,False,393695.0,307082.10000000003
+Ferrari,Portofino,2021,3.9,Combustion,591,False,413,False,3.5,False,215000.0,167700.0
+Audi,RS 5,2022,2.9,Combustion,444,False,443,False,3.7,False,75100.0,58578.0
+McLaren,GT,2021,4.0,Combustion,620,False,465,False,3.1,False,210000.0,163800.0
+Mercedes-Benz,SLC 43,2020,3.0,Combustion,385,False,384,False,4.6,False,62000.0,48360.0
+Chevrolet,Camaro SS,2022,6.2,Combustion,455,False,455,False,4.3,False,42500.0,33150.0
+Ford,Mustang GT,2022,5.0,Combustion,460,False,420,False,4.3,False,36120.0,28173.600000000002
+Nissan,370Z Nismo,2020,3.7,Combustion,350,False,276,False,4.6,False,45790.0,35716.200000000004
+Bentley,Continental GT,2021,4.0,Combustion,626,False,664,False,3.3,False,220000.0,171600.0
+Porsche,718 Boxster,2022,2.0,Combustion,300,False,280,False,4.9,False,62000.0,48360.0
+Ferrari,F8 Spider,2021,3.9,Combustion,710,False,568,False,2.9,False,280000.0,218400.0
+Audi,TT RS,2022,2.5,Combustion,394,False,354,False,3.6,False,69900.0,54522.0
+McLaren,570S,2021,3.8,Combustion,562,False,443,False,2.9,False,208800.0,162864.0
+Lamborghini,Aventador,2021,6.5,Combustion,730,False,509,False,2.9,False,393695.0,307082.10000000003
+Audi,RS5,2022,2.9,Combustion,444,False,443,False,3.7,False,75100.0,58578.0
+McLaren,GT,2021,4.0,Combustion,612,False,465,False,3.2,False,208800.0,162864.0
+Mercedes-Benz,SLS AMG,2015,6.2,Combustion,622,False,468,False,3.6,False,229000.0,178620.0
+Nissan,370Z Nismo,2020,3.7,Combustion,350,False,276,False,5.2,False,46200.0,36036.0
+Dodge,Challenger SRT Hellcat,2021,6.2,Combustion,717,False,656,False,3.6,False,71000.0,55380.0
+Aston Martin,DBS Superleggera,2021,5.2,Combustion,715,False,663,False,3.2,False,308000.0,240240.0
+Alfa Romeo,Giulia Quadrifoglio,2022,2.9,Combustion,505,False,443,False,3.8,False,80500.0,62790.0
+Jaguar,F-Type R,2021,5.0,Combustion,575,False,516,False,3.5,False,105900.0,82602.0
+Lotus,Evora GT,2020,3.5,Combustion,416,False,317,False,3.8,False,96950.0,75621.0
+Maserati,GranTurismo,2019,4.7,Combustion,454,False,384,False,4.7,False,150980.0,117764.40000000001
+Porsche,Panamera Turbo S,2022,4.0,Combustion,630,False,604,False,2.9,False,180800.0,141024.0
+Lotus,Evora,2021,3.5,Combustion,416,False,317,False,3.8,False,94000.0,73320.0
+Alfa Romeo,4C Spider,2020,1.7,Combustion,237,False,258,False,4.1,False,67150.0,52377.0
+Jaguar,F-Type,2022,3.0,Combustion,380,False,339,False,4.9,False,70900.0,55302.0
+Audi,RS5 Coupe,2022,2.9,Combustion,444,False,443,False,3.7,False,76450.0,59631.0
+Chevrolet,Camaro ZL1,2022,6.2,Combustion,650,False,650,False,3.5,False,64000.0,49920.0
+Dodge,Challenger SRT Hellcat,2022,6.2,Combustion,717,False,656,False,3.5,False,61500.0,47970.0
+Ford,GT,2021,3.5,Combustion,647,False,550,False,2.8,False,500000.0,390000.0
+McLaren,570S,2022,3.8,Combustion,562,False,443,False,3.1,False,198950.0,155181.0
+Mercedes-AMG,C63 S Coupe,2021,4.0,Combustion,503,False,516,False,3.7,False,77950.0,60801.0
+Porsche,718 Boxster,2021,2.0,Combustion,300,False,280,False,4.9,False,62000.0,48360.0
+Lamborghini,Aventador S,2021,6.5,Combustion,729,False,507,False,2.9,False,417826.0,325904.28
+Audi,TT RS Coupe,2021,2.5,Combustion,394,False,354,False,3.6,False,67600.0,52728.0
+BMW,M4 Coupe,2021,3.0,Combustion,473,False,406,False,3.8,False,71800.0,56004.0
+Aston Martin,DBS Superleggera,2022,5.2,Combustion,715,False,664,False,3.4,False,314500.0,245310.0
+Bentley,Continental GT,2022,6.0,Combustion,626,False,664,False,3.3,False,214425.0,167251.5
+Dodge,Challenger SRT Hellcat,2022,6.2,Combustion,717,False,656,False,3.5,False,71490.0,55762.200000000004
+Jaguar,F-Type,2021,5.0,Combustion,575,False,516,False,3.5,False,105900.0,82602.0
+Koenigsegg,Jesko,2021,5.0,Combustion,1280,False,1106,False,2.5,False,2800000.0,2184000.0
+Lotus,Evora GT,2021,3.5,Combustion,416,False,317,False,3.8,False,104400.0,81432.0
+Maserati,GranTurismo,2022,4.7,Combustion,454,False,384,False,4.7,False,150980.0,117764.40000000001
+Porsche,Cayman GT4,2022,4.0,Combustion,414,False,309,False,4.2,False,102000.0,79560.0
+Rimac,C_Two,2021,,Electric,1914,False,1696,False,1.9,False,2400000.0,1872000.0
+Rolls-Royce,Wraith,2021,6.8,Combustion,624,False,605,False,4.4,False,335550.0,261729.0
+Tesla,Model S Plaid,2021,,Electric,1020,False,1050,False,1.9,False,141990.0,110752.2
+TVR,Griffith,2021,5.0,Combustion,500,False,420,False,3.9,False,157500.0,122850.0
+Ultima,RS,2021,6.2,Combustion,1200,False,1300,False,2.3,False,220000.0,171600.0
+W Motors,Fenyr SuperSport,2022,3.8,Combustion,800,False,723,False,2.7,False,1550000.0,1209000.0
+Aston Martin,DBS Superleggera,2022,5.2,Combustion,715,False,663,False,3.2,False,308000.0,240240.0
+Dodge,Challenger SRT Hellcat,2021,6.2,Combustion,717,False,656,False,3.5,False,65000.0,50700.0
+Jaguar,F-Type,2021,3.0,Combustion,380,False,339,False,4.9,False,63100.0,49218.0
+Lotus,Evija,2022,,Electric,1973,False,1254,False,2.5,False,2600000.0,2028000.0
+Porsche,Taycan,2021,,Electric,616,False,774,False,2.6,False,185000.0,144300.0
+Rimac,C_Two,2022,,Electric,1914,False,1696,False,1.9,False,2400000.0,1872000.0
+Tesla,Model S Plaid,2022,,Electric,1020,False,1050,False,1.98,False,140000.0,109200.0
+Mercedes-Benz,AMG GT Black Series,2021,4.0,Combustion,720,False,590,False,3.1,False,325000.0,253500.0
+Aston Martin,DBS Superleggera,2021,5.2,Combustion,715,False,664,False,3.4,False,307820.0,240099.6
+Dodge,Challenger SRT Hellcat Redeye,2021,6.2,Combustion,797,False,707,False,3.5,False,80190.0,62548.200000000004
+Alfa Romeo,4C Spider,2020,1.8,Combustion,237,False,258,False,4.1,False,68745.0,53621.1
+Subaru,WRX STI,2022,2.5,Combustion,310,False,290,False,5.2,False,38170.0,29772.600000000002
+Tesla,Model S Plaid,2022,,Electric,1020,False,1050,False,1.98,False,139990.0,109192.2
+Bugatti,Chiron Super Sport 300+,2022,8.0,Combustion,1578,False,1180,False,2.3,False,5200000.0,4056000.0
+McLaren,Senna,2020,4.0,Combustion,789,False,590,False,2.7,False,1500000.0,1170000.0
+Porsche,Taycan Turbo S,2022,,Electric,750,False,774,False,2.6,False,185000.0,144300.0
+Chevrolet,Camaro ZL1,2022,6.2,Combustion,650,False,650,False,3.5,False,65000.0,50700.0
+Audi,RS 7 Sportback,2022,4.0,Combustion,591,False,590,False,3.5,False,114000.0,88920.0
+Porsche,Cayman GT4,2022,4.0,Combustion,414,False,309,False,4.2,False,102550.0,79989.0
+Lamborghini,Aventador,2022,6.5,Combustion,770,False,531,False,2.8,False,393695.0,307082.10000000003
+Lamborghini,Aventador S,2022,6.5,Combustion,729,False,507,False,2.9,False,460247.0,358992.66000000003
+Audi,RS 6 Avant,2022,4.0,Combustion,591,False,590,False,3.1,False,110045.0,85835.1
+Mercedes-Benz,AMG C 63 S,2021,4.0,Combustion,503,False,516,False,3.7,False,77400.0,60372.0
+Nissan,370Z Nismo,2020,3.7,Combustion,350,False,276,False,5.0,False,46815.0,36515.700000000004
+Audi,TT RS,2021,2.5,Combustion,394,False,354,False,3.6,False,67895.0,52958.1
+Chevrolet,Corvette Z06,2023,5.5,Combustion,625,False,650,False,2.6,False,85000.0,66300.0
+Lamborghini,Urus,2022,4.0,Combustion,641,False,626,False,3.2,False,218009.0,170047.02000000002
+Mercedes-Benz,AMG GT 63 S,2021,4.0,Combustion,630,False,664,False,3.1,False,162900.0,127062.0
+Ferrari,Portofino M,2022,3.9,Combustion,612,False,560,False,3.5,False,245000.0,191100.0
+Bugatti,Chiron,2021,8.0,Combustion,1479,False,1180,False,2.5,False,3000000.0,2340000.0
+Alfa Romeo,Giulia Quadrifoglio,2021,2.9,Combustion,505,False,443,False,3.8,False,74750.0,58305.0
+BMW,M5,2021,4.4,Combustion,600,False,553,False,3.2,False,103500.0,80730.0
+Dodge,Challenger Hellcat,2021,6.2,Combustion,717,False,656,False,3.5,False,70595.0,55064.1
+Ford,GT,2022,3.5,Combustion,647,False,550,False,3.0,False,500000.0,390000.0
+McLaren,570S,2021,3.8,Combustion,562,False,443,False,3.1,False,203500.0,158730.0
+Mercedes-Benz,SLS AMG,2015,6.2,Combustion,583,False,479,False,3.6,False,221580.0,172832.4
+Nissan,370Z Nismo,2020,3.7,Combustion,350,False,276,False,4.7,False,47190.0,36808.200000000004
+Porsche,718 Cayman,2022,2.0,Combustion,300,False,280,False,4.9,False,61500.0,47970.0
+Lamborghini,Aventador,2021,6.5,Combustion,759,False,531,False,2.9,False,393695.0,307082.10000000003
+Ferrari,Roma,2021,3.9,Combustion,612,False,561,False,3.3,False,222630.0,173651.4
+Audi,RS 5,2022,2.9,Combustion,444,False,442,False,3.5,False,75400.0,58812.0
+McLaren,570S,2020,3.8,Combustion,562,False,443,False,3.1,False,208000.0,162240.0
+Mercedes-Benz,SL,2022,3.0,Combustion,429,False,384,False,4.9,False,96250.0,75075.0
+Chevrolet,Camaro,2021,6.2,Combustion,455,False,455,False,4.0,False,25000.0,19500.0
+Audi,RS 6,2022,4.0,Combustion,591,False,590,False,3.5,False,109000.0,85020.0
+Porsche,Taycan 4S,2021,,Electric,429,False,472,False,3.8,False,103800.0,80964.0
+Audi,RS 7,2022,4.0,Combustion,591,False,590,False,3.5,False,117000.0,91260.0
+BMW,M4,2021,3.0,Combustion,473,False,406,False,4.0,False,72800.0,56784.0
+Nissan,370Z Nismo,2021,3.7,Combustion,350,False,276,False,5.0,False,48000.0,37440.0
+Lexus,LC 500,2021,5.0,Combustion,471,False,398,False,4.4,False,93000.0,72540.0
+Bentley,Continental GT,2021,4.0,Combustion,626,False,664,False,3.3,False,202500.0,157950.0
+Tesla,Model S Plaid,2022,,Electric,1020,False,1050,False,1.98,False,131190.0,102328.2
+Rolls-Royce,Dawn,2021,6.6,Combustion,563,False,605,False,4.3,False,346300.0,270114.0
+Bugatti,Chiron Pur Sport,2021,8.0,Combustion,1500,False,1180,False,2.3,False,3599000.0,2807220.0
+McLaren,Senna,2019,4.0,Combustion,789,False,590,False,2.7,False,1050000.0,819000.0
+Porsche,Panamera Turbo S E-Hybrid,2021,,Hybrid,690,False,641,False,3.0,False,186350.0,145353.0
+Aston Martin,DB11,2021,4.0,Combustion,503,False,498,False,3.7,False,205600.0,160368.0
+Bentley,Continental GT,2021,6.0,Combustion,626,False,664,False,3.6,False,201000.0,156780.0
+Chevrolet,Camaro ZL1,2022,6.2,Combustion,650,False,650,False,3.5,False,67000.0,52260.0
+Dodge,Challenger Hellcat,2021,6.2,Combustion,717,False,656,False,3.5,False,64000.0,49920.0
+Ferrari,812 Superfast,2021,6.5,Combustion,789,False,530,False,2.8,False,340000.0,265200.0
+Lamborghini,Aventador SVJ,2021,6.5,Combustion,770,False,531,False,2.8,False,517770.0,403860.60000000003
+Mercedes-AMG,GT Black Series,2021,4.0,Combustion,720,False,590,False,3.1,False,325000.0,253500.0
+Nissan,400Z,2023,3.0,Combustion,400,False,350,False,4.0,False,40000.0,31200.0
+Porsche,Cayman GT4,2021,4.0,Combustion,414,False,309,False,4.2,False,101000.0,78780.0
+Rimac,Nevera,2021,,Electric,1914,False,1696,False,1.9,False,2400000.0,1872000.0
+Tesla,Model S Plaid,2021,,Electric,1020,False,,,1.9,False,139990.0,109192.2
+Toyota,Supra,2021,3.0,Combustion,382,False,368,False,3.9,False,43000.0,33540.0
+Dodge,Charger Hellcat,2021,6.2,Combustion,707,False,650,False,3.6,False,69995.0,54596.1
+Aston Martin,DBS Superleggera,2021,5.2,Combustion,715,False,663,False,3.2,False,305000.0,237900.0
+Alfa Romeo,Giulia Quadrifoglio,2021,2.9,Combustion,505,False,443,False,3.8,False,75000.0,58500.0
+Audi,TT RS,2021,2.5,Combustion,394,False,354,False,3.6,False,68000.0,53040.0
+Bentley,Continental GT,2021,6.0,Combustion,626,False,664,False,3.6,False,203825.0,158983.5
+Chevrolet,Corvette Stingray,2021,6.2,Combustion,495,False,470,False,2.9,False,58900.0,45942.0
+Dodge,Challenger SRT Hellcat,2021,6.2,Combustion,717,False,656,False,3.5,False,63000.0,49140.0
+Ford,Mustang GT,2022,5.0,Combustion,460,False,420,False,4.0,False,45000.0,35100.0
+Ferrari,Roma,2022,3.9,Combustion,612,False,560,False,3.3,False,222630.0,173651.4
+McLaren,570S,2021,3.8,Combustion,562,False,443,False,2.7,False,204995.0,159896.1
+BMW,M4,2022,3.0,Combustion,473,False,406,False,4.1,False,71800.0,56004.0
+Mercedes-Benz,SLS AMG,2021,6.2,Combustion,622,False,468,False,3.5,False,243600.0,190008.0
+Nissan,370Z Nismo,2021,3.7,Combustion,350,False,276,False,5.0,False,47190.0,36808.200000000004
+Audi,RS6,2022,4.0,Combustion,591,False,590,False,3.5,False,113000.0,88140.0
+Mercedes-Benz,GT 63,2021,4.0,Combustion,577,False,590,False,3.3,False,161200.0,125736.0
+Aston Martin,DBS Superleggera,2021,5.2,Combustion,715,False,663,False,3.2,False,310000.0,241800.0
+Pagani,Huayra,2021,6.0,Combustion,764,False,737,False,3.0,False,2600000.0,2028000.0
+McLaren,Senna,2021,4.0,Combustion,789,False,590,False,2.7,False,1000000.0,780000.0
+Porsche,918 Spyder,2015,4.6,Combustion,887,False,944,False,2.2,False,1800000.0,1404000.0
+Lamborghini,Aventador SVJ,2020,6.5,Combustion,759,False,531,False,2.8,False,517000.0,403260.0
+Audi,RS 6 Avant,2021,4.0,Combustion,591,False,590,False,3.5,False,110000.0,85800.0
+Bentley,Continental GT Speed,2022,6.0,Combustion,650,False,664,False,3.5,False,300000.0,234000.0
+Chevrolet,Camaro ZL1,2021,6.2,Combustion,650,False,650,False,3.5,False,68000.0,53040.0
+Lotus,Evija,2022,,Electric,1972,False,1254,False,2.5,False,2700000.0,2106000.0
+Mercedes-AMG,GT Black Series,2021,4.0,Combustion,720,False,590,False,3.1,False,330000.0,257400.0
+Aston Martin,DB11,2021,4.0,Combustion,503,False,513,False,3.9,False,205000.0,159900.0
+Bentley,Continental GT,2022,4.0,Combustion,542,False,568,False,3.9,False,229000.0,178620.0
+Lotus,Evora GT,2021,3.5,Combustion,416,False,317,False,3.8,False,100000.0,78000.0
+Maserati,GranTurismo,2021,4.7,Combustion,454,False,384,False,4.7,False,135000.0,105300.0
+Porsche,Boxster,2022,2.0,Combustion,300,False,280,False,4.9,False,63000.0,49140.0
+Alfa Romeo,4C,2020,1.8,Combustion,237,False,258,False,4.2,False,67150.0,52377.0
+Chevrolet,Camaro,2022,6.2,Combustion,455,False,455,False,4.0,False,62195.0,48512.1
+Dodge,Challenger,2022,3.6,Combustion,305,False,268,False,6.4,False,28000.0,21840.0
+Nissan,370Z,2021,3.7,Combustion,350,False,276,False,5.3,False,30090.0,23470.2
+Porsche,Cayman,2022,2.0,Combustion,300,False,280,False,4.9,False,68000.0,53040.0
+BMW,i8,2022,1.5,Combustion,369,False,184,False,4.2,False,147500.0,115050.0
+Lamborghini,Aventador S,2021,6.5,Combustion,729,False,507,False,2.9,False,417650.0,325767.0
+Audi,RS7,2022,4.0,Combustion,591,False,590,False,3.5,False,115000.0,89700.0
+McLaren,GT,2022,4.0,Combustion,620,False,465,False,3.1,False,208000.0,162240.0
+Mercedes-Benz,SLS AMG,2021,4.0,Combustion,730,False,590,False,2.9,False,250000.0,195000.0
+Porsche,Panamera Turbo S,2022,4.0,Combustion,630,False,604,False,3.1,False,180000.0,140400.0
+Ferrari,Portofino,2022,3.9,Combustion,591,False,561,False,3.4,False,250000.0,195000.0
+Audi,TT RS,2022,2.5,Combustion,394,False,354,False,3.6,False,70000.0,54600.0
+McLaren,570S,2021,3.8,Combustion,562,False,443,False,3.1,False,200000.0,156000.0
+BMW,i8,2022,,Hybrid,369,False,184,False,4.2,False,148500.0,115830.0
+Ferrari,Portofino,2022,3.9,Combustion,612,False,561,False,3.3,False,245000.0,191100.0
+Audi,TT RS,2022,2.5,Combustion,394,False,354,False,3.6,False,67800.0,52884.0
+McLaren,GT,2022,4.0,Combustion,620,False,465,False,3.1,False,211300.0,164814.0
+Mercedes-Benz,SLS AMG,2015,6.2,Combustion,622,False,468,False,3.5,False,222500.0,173550.0
+Chevrolet,Camaro SS,2022,6.2,Combustion,455,False,455,False,4.0,False,43995.0,34316.1
+Porsche,911 Turbo S,2022,3.8,Combustion,640,False,590,False,2.6,False,208000.0,162240.0
+BMW,M5 Competition,2022,4.4,Combustion,617,False,553,False,3.1,False,103500.0,80730.0
+Aston Martin,Vantage,2022,4.0,Combustion,503,False,505,False,3.5,False,152995.0,119336.1
+Ferrari,F8 Spider,2021,3.9,Combustion,710,False,568,False,2.9,False,274280.0,213938.4
+Lexus,LC 500,2022,5.0,Combustion,471,False,398,False,4.4,False,102550.0,79989.0
+Porsche,Taycan,2022,,Electric,469,False,479,False,3.8,False,79900.0,62322.0
+Audi,RS6 Avant,2021,4.0,Combustion,591,False,590,False,3.5,False,109000.0,85020.0
+Mercedes-Benz,AMG GT R,2021,4.0,Combustion,577,False,516,False,3.5,False,180000.0,140400.0
+Ferrari,Portofino M,2021,3.9,Combustion,612,False,561,False,3.4,False,235000.0,183300.0
+Audi,TT RS,2022,2.5,Combustion,394,False,354,False,3.6,False,67600.0,52728.0
+Mercedes-Benz,SLS AMG Black Series,2021,6.2,Combustion,622,False,468,False,3.5,False,335000.0,261300.0
+Porsche,718 Boxster,2022,2.0,Combustion,300,False,280,False,4.9,False,63000.0,49140.0
+Lamborghini,Aventador SVJ,2020,6.5,Combustion,759,False,531,False,2.8,False,573966.0,447693.48000000004
+Audi,TT RS Coupe,2022,2.5,Combustion,394,False,354,False,3.5,False,68000.0,53040.0
+McLaren,GT,2020,4.0,Combustion,612,False,465,False,3.1,False,210000.0,163800.0
+BMW,Z4 Roadster,2022,2.0,Combustion,255,False,295,False,5.2,False,50000.0,39000.0
+Mercedes-Benz,SLS AMG,2015,6.2,Combustion,622,False,468,False,3.6,False,200000.0,156000.0
+Chevrolet,Camaro SS Convertible,2022,6.2,Combustion,455,False,455,False,4.0,False,49000.0,38220.0
+Nissan,370Z Coupe,2020,3.7,Combustion,332,False,270,False,5.0,False,30090.0,23470.2
+Aston Martin,Vantage,2021,4.0,Combustion,503,False,505,False,3.6,False,142086.0,110827.08
+Bentley,Continental GT,2022,6.0,Combustion,626,False,664,False,3.3,False,225000.0,175500.0
+Dodge,Challenger SRT Hellcat,2022,6.2,Combustion,717,False,656,False,3.5,False,68000.0,53040.0
+Jaguar,F-Type,2022,2.0,Combustion,296,False,295,False,5.4,False,63700.0,49686.0
+Lotus,Evora GT,2021,3.5,Combustion,416,False,317,False,3.8,False,98395.0,76748.1
+Porsche,Panamera Turbo S E-Hybrid,2021,4.0,Combustion,689,False,642,False,3.0,False,190000.0,148200.0
+Lamborghini,Aventador SVJ,2021,6.5,Combustion,759,False,531,False,2.8,False,517000.0,403260.0
+Mercedes-Benz,S63 AMG,2021,4.0,Combustion,603,False,664,False,3.4,False,168000.0,131040.0
+Chevrolet,Camaro ZL1,2021,6.2,Combustion,650,False,650,False,3.5,False,64500.0,50310.0
+Nissan,370Z Nismo,2021,3.7,Combustion,350,False,276,False,4.7,False,46000.0,35880.0
+Porsche,718 Cayman GT4,2022,4.0,Combustion,414,False,309,False,4.2,False,102000.0,79560.0
+Mercedes-AMG,C63 S Coupe,2021,4.0,Combustion,503,False,516,False,3.7,False,77500.0,60450.0
+Aston Martin,Vantage,2021,4.0,Combustion,503,False,505,False,3.5,False,147000.0,114660.0
+McLaren,570S,2021,3.8,Combustion,562,False,443,False,3.1,False,193000.0,150540.0
+Dodge,Challenger SRT Hellcat,2021,6.2,Combustion,717,False,656,False,3.5,False,64000.0,49920.0
+Mercedes-AMG,GT 63 S,2021,4.0,Combustion,630,False,664,False,3.1,False,162000.0,126360.0
+Audi,RS 5,2022,2.9,Combustion,444,False,443,False,3.5,False,76700.0,59826.0
+McLaren,570S Spider,2020,3.8,Combustion,562,False,443,False,3.1,False,208800.0,162864.0
+BMW,M2 Competition,2022,3.0,Combustion,405,False,406,False,4.2,False,58900.0,45942.0
+Mercedes-Benz,C 63 AMG,2022,4.0,Combustion,469,False,479,False,3.9,False,69000.0,53820.0
+Ford,Mustang GT,2022,5.0,Combustion,460,False,420,False,4.5,False,43000.0,33540.0
+Dodge,Challenger R/T,2021,5.7,Combustion,372,False,400,False,5.1,False,35000.0,27300.0
+Aston Martin,Vantage,2021,4.0,Combustion,503,False,505,False,3.6,False,151000.0,117780.0
+Alfa Romeo,4C Spider,2020,1.7,Combustion,237,False,258,False,4.1,False,69000.0,53820.0
+Jaguar,F-Type,2022,2.0,Combustion,296,False,295,False,5.4,False,62500.0,48750.0
+Bugatti,Chiron Super Sport 300+,2021,8.0,Combustion,1578,False,1180,False,2.4,False,5200000.0,4056000.0
+Chevrolet,Camaro ZL1,2022,6.2,Combustion,650,False,650,False,3.5,False,63000.0,49140.0
+Alfa Romeo,Giulia Quadrifoglio,2022,2.9,Combustion,505,False,443,False,3.8,False,83250.0,64935.0
+Audi,RS 7 Sportback,2021,4.0,Combustion,591,False,590,False,3.5,False,114000.0,88920.0
+BMW,M4 Competition,2022,3.0,Combustion,503,False,479,False,3.8,False,74700.0,58266.0
+Mercedes-Benz,C63 S AMG,2022,4.0,Combustion,503,False,516,False,3.9,False,77600.0,60528.0
+Porsche,Panamera Turbo S,2022,4.0,Combustion,630,False,604,False,2.9,False,181100.0,141258.0
+Lamborghini,Aventador S,2021,6.5,Combustion,730,False,507,False,2.9,False,417826.0,325904.28
+Aston Martin,DBS Superleggera,2022,5.2,Combustion,715,False,664,False,3.2,False,329100.0,256698.0
+Mercedes-Benz,AMG C43 Coupe,2021,3.0,Combustion,385,False,384,False,4.5,False,59900.0,46722.0
+Porsche,Taycan,2022,,Electric,469,False,263,False,3.8,False,81250.0,63375.0
+Lamborghini,Aventador,2021,6.5,Combustion,730,False,509,False,2.9,False,517000.0,403260.0
+Ferrari,Roma,2021,3.9,Combustion,611,False,560,False,3.3,False,222620.0,173643.6
+Mercedes-Benz,C63 AMG,2021,4.0,Combustion,469,False,479,False,3.9,False,77000.0,60060.0
+Chevrolet,Camaro SS,2021,6.2,Combustion,455,False,455,False,4.1,False,43995.0,34316.1
+Nissan,370Z Nismo,2021,3.7,Combustion,350,False,276,False,4.8,False,46610.0,36355.8
+Ferrari,SF90 Stradale,2021,,Hybrid,986,False,590,False,2.5,False,625000.0,487500.0
+Audi,RS6,2022,4.0,Combustion,591,False,590,False,3.5,False,120000.0,93600.0
+BMW,M4,2022,3.0,Combustion,503,False,479,False,3.8,False,74000.0,57720.0
+Mercedes-Benz,AMG A45,2021,2.0,Combustion,382,False,354,False,4.0,False,50000.0,39000.0
+Chevrolet,Camaro ZL1,2021,6.2,Combustion,650,False,650,False,3.5,False,63995.0,49916.1
+Bentley,Continental GT,2021,4.0,Combustion,542,False,568,False,3.3,False,202500.0,157950.0
+Bugatti,Chiron,2022,8.0,Combustion,1479,False,1180,False,2.4,False,2900000.0,2262000.0
+Ferrari,F8 Tributo,2022,3.9,Combustion,710,False,568,False,2.8,False,275000.0,214500.0
+McLaren,GT,2021,4.0,Combustion,612,False,465,False,3.1,False,201500.0,157170.0
+Dodge,Challenger SRT Hellcat Redeye,2022,6.2,Combustion,797,False,707,False,3.5,False,80190.0,62548.200000000004
+Jaguar,F-Type,2021,3.0,Combustion,380,False,339,False,4.4,False,62750.0,48945.0
+Lexus,LC 500,2021,5.0,Combustion,471,False,398,False,4.4,False,92000.0,71760.0
+Lotus,Evija,2021,,Electric,2000,False,1254,False,2.8,False,2800000.0,2184000.0
+Maserati,GranTurismo,2021,,Electric,550,False,,,2.8,False,200000.0,156000.0
+Rolls-Royce,Ghost,2021,6.8,Combustion,563,False,627,False,4.6,False,332500.0,259350.0
+Porsche,Taycan,2021,2.0,Combustion,402,False,254,False,5.1,False,81250.0,63375.0
+Aston Martin,DB11,2021,4.0,Combustion,630,False,516,False,3.7,False,198995.0,155216.1
+Chevrolet,Camaro,2022,6.2,Combustion,455,False,455,False,4.0,False,25000.0,19500.0
+Dodge,Charger,2021,6.2,Combustion,797,False,707,False,3.3,False,72000.0,56160.0
+Mercedes-Benz,SLS AMG,2021,6.2,Combustion,622,False,468,False,3.6,False,254995.0,198896.1
+Bentley,Continental GT,2021,4.0,Combustion,542,False,568,False,3.9,False,220000.0,171600.0
+Dodge,Challenger SRT Hellcat,2021,6.2,Combustion,717,False,656,False,3.5,False,60695.0,47342.1
+Ferrari,F8 Spider,2022,3.9,Combustion,710,False,568,False,2.9,False,274390.0,214024.2
+Jaguar,F-Type,2021,3.0,Combustion,296,False,295,False,5.4,False,64700.0,50466.0
+Lamborghini,Aventador,2021,6.5,Combustion,759,False,531,False,2.9,False,517770.0,403860.60000000003
+Lotus,Evora GT,2021,3.5,Combustion,416,False,317,False,3.8,False,99990.0,77992.2
+Maserati,GranTurismo,2021,4.7,Combustion,454,False,384,False,4.7,False,150800.0,117624.0
+Mercedes-Benz,AMG C 63,2021,4.0,Combustion,469,False,479,False,3.8,False,67600.0,52728.0
+Porsche,Panamera,2022,2.9,Combustion,325,False,331,False,5.3,False,88800.0,69264.0
+Lamborghini,Aventador,2021,6.5,Combustion,729,False,509,False,2.9,False,393695.0,307082.10000000003
+Audi,RS5 Coupe,2022,2.9,Combustion,444,False,443,False,3.5,False,76350.0,59553.0
+McLaren,570S,2021,3.8,Combustion,562,False,443,False,3.1,False,202000.0,157560.0
+Mercedes-Benz,SL,2022,3.0,Combustion,429,False,384,False,4.4,False,96000.0,74880.0
+Nissan,370Z,2021,3.7,Combustion,332,False,270,False,5.3,False,33000.0,25740.0
+Alfa Romeo,Giulia Quadrifoglio,2021,2.9,Combustion,505,False,443,False,3.8,False,75250.0,58695.0
+Aston Martin,DB11,2022,4.0,Combustion,630,False,516,False,3.7,False,201495.0,157166.1
+Dodge,Challenger,2021,6.4,Combustion,485,False,475,False,3.8,False,62000.0,48360.0
+Lotus,Evora GT,2021,3.5,Combustion,416,False,317,False,3.8,False,99000.0,77220.0
+Aston Martin,Vantage,2022,4.0,Combustion,503,False,505,False,3.5,False,149995.0,116996.1
+Dodge,Charger SRT Hellcat,2022,6.2,Combustion,717,False,650,False,3.5,False,78595.0,61304.1
+Chevrolet,Camaro SS,2022,6.2,Combustion,455,False,455,False,4.1,False,37500.0,29250.0
+Ford,Mustang GT,2022,5.0,Combustion,460,False,420,False,4.0,False,38500.0,30030.0
+Mercedes-Benz,AMG C63,2022,4.0,Combustion,469,False,479,False,3.8,False,71450.0,55731.0
+Porsche,Panamera GTS,2021,4.0,Combustion,473,False,457,False,3.9,False,134150.0,104637.0
+McLaren,GT,2021,4.0,Combustion,612,False,465,False,3.1,False,250000.0,195000.0
+Mercedes-Benz,AMG GT 4-Door Coupe,2021,4.0,Combustion,630,False,664,False,3.1,False,171200.0,133536.0
+Aston Martin,DBS Superleggera,2022,5.2,Combustion,715,False,663,False,3.4,False,321000.0,250380.0
+Lotus,Evora GT,2021,3.5,Combustion,416,False,317,False,3.8,False,100500.0,78390.0
+McLaren,570S,2021,3.8,Combustion,562,False,443,False,3.1,False,195000.0,152100.0
+Audi,RS7 Sportback,2022,4.0,Combustion,591,False,590,False,3.5,False,114000.0,88920.0
+Mercedes-AMG,C63 S,2022,4.0,Combustion,503,False,516,False,3.7,False,78100.0,60918.0
+Dodge,Charger Hellcat,2021,6.2,Combustion,717,False,650,False,3.6,False,70000.0,54600.0
+Alfa Romeo,Giulia Quadrifoglio,2021,2.9,Combustion,505,False,443,False,3.8,False,78450.0,61191.0
+Tesla,Model S Plaid,2022,,Electric,1020,False,1050,False,1.9,False,141190.0,110128.2
+Porsche,Panamera Turbo S E-Hybrid,2021,,Hybrid,689,False,642,False,3.0,False,190000.0,148200.0
+Bugatti,Chiron,2022,8.0,Combustion,1500,False,1180,False,2.5,False,3900000.0,3042000.0
+Pagani,Huayra,2021,6.0,Combustion,764,False,740,False,2.8,False,2600000.0,2028000.0
+Lotus,Evija,2022,,Electric,1973,False,1254,False,2.5,False,2000000.0,1560000.0
+Pininfarina,Battista,2021,,Electric,1872,False,1696,False,1.9,False,2500000.0,1950000.0
+Maserati,MC20,2021,3.0,Combustion,621,False,538,False,2.9,False,210000.0,163800.0
+Porsche,Cayman,2021,2.0,Combustion,300,False,280,False,5.1,False,59900.0,46722.0
+BMW,M2,2021,3.0,Combustion,405,False,406,False,4.0,False,58900.0,45942.0
+Mercedes-Benz,SLS AMG,2021,6.3,Combustion,622,False,468,False,3.6,False,254500.0,198510.0
+Ford,Mustang,2021,2.3,Combustion,310,False,350,False,5.3,False,27205.0,21219.9
+Koenigsegg,Jesko,2022,5.0,Combustion,1280,False,1106,False,2.5,False,3000000.0,2340000.0
+Lotus,Evija,2021,,Electric,1972,False,1254,False,2.0,False,2000000.0,1560000.0
+Rimac,Nevera,2021,,Electric,1888,False,1696,False,1.85,False,2400000.0,1872000.0
