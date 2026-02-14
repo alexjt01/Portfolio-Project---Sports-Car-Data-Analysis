@@ -10,4 +10,4 @@ Contents
 - `Sports Car Project - Exploring Data`: both the IPYNB and HTML file of the exploration and visualisation process (Juypter Notebook).
 - `Sports Car Project - SQL Explore`: both the IPYNB and NTML file of the SQL exploration of the data (Juypter Notebook).
 - `sports car background.png`: image file used as background in tableua dashboard.
-- `sports car dashboard.png`: image of the dashboard - dashboard can be found on Tableau public: [https://public.tableau.com/views/SportsCardashboard/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link](url)
+- `sports car dashboard.png`: image of the dashboard - dashboard can be found on Tableau public: [View the Tableau Dashboard](https://public.tableau.com/views/SportsCardashboard/Dashboard1)
